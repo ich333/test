@@ -1,0 +1,10 @@
+1. Добавьте в проект файл .gitignore и настройте так чтобы скрыть файлы с расширением .db, .log и директории с названиями target или bin.
+
+2. Создайте ветку feature и добавьте в неё два коммита
+
+3. Смержите ветку feature в master
+
+4. Вернитесь в feature и создайте файл arrows.txt cледующего содержания:
+
+The ship glides gently on the waves
+As day turns into night
